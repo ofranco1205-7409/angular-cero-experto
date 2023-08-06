@@ -1,0 +1,16 @@
+copy line           Shift + Alt + ↑
+                    Shift + Alt + ↓
+Command palette     Shift+Ctl+P
+
+
+
+
+
+
+
+
+
+
+
+npm start
+ng serve -o
