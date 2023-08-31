@@ -1,16 +1,38 @@
 copy line           Shift + Alt + ↑
                     Shift + Alt + ↓
-Command palette     Shift+Ctl+P
+Command palette     Shift + Ctl + P
+Prettier            Shift + Alt + F or by right-clicking and selecting Format Document           
+         
 
 
 
 
 
 
+https://www.npmjs.com/package/http-server
+npm install --global http-server
+http-server -o
+
+npm install del-cli --save-dev
+npm i copyfiles --save-dev
+
+https://ofranco1205-7409.github.io/angular-cero-experto/
+https://github.com/ofranco1205-7409/angular-cero-experto/actions/workflows/pages/pages-build-deployment
 
 
 
-
-
+----------------------------------
+npm init @angular gifs-app
 npm start
 ng serve -o
+
+
+.myclass and hit tab and you'll get <div class="myclass"></div>
+
+ng g m gifs
+ng g m shared
+ng g c shared/components/sidebar
+ng g c gifs/components/cardList
+
+paleta de comandos Ctrl + Shiff + P
+Past JSON as Code con el JSON en el portapapeles

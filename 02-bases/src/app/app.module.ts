@@ -6,11 +6,13 @@ import { DbzModule } from './dbz/dbz.module';
 import { HeroesModule } from './heroes/heroes.module';
 
 import { AppComponent } from './app.component';
+import { HomePageComponent } from './home-page/home-page.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
+    HomePageComponent,
   ],
   imports: [
     BrowserModule,
