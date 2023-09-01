@@ -36,3 +36,7 @@ ng g c gifs/components/cardList
 
 paleta de comandos Ctrl + Shiff + P
 Past JSON as Code con el JSON en el portapapeles
+
+
+ng new countryApp
+--------------------------------
