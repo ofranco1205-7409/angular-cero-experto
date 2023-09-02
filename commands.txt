@@ -2,7 +2,7 @@ copy line           Shift + Alt + ↑
                     Shift + Alt + ↓
 Command palette     Shift + Ctl + P
 Prettier            Shift + Alt + F or by right-clicking and selecting Format Document           
-         
+Comment             Alt + Shif +A               
 
 
 
@@ -40,3 +40,5 @@ Past JSON as Code con el JSON en el portapapeles
 
 ng new countryApp
 --------------------------------
+am  a-module TAB
+ng g c countries/pages/byCapitalPage --inline-style --skip-tests
